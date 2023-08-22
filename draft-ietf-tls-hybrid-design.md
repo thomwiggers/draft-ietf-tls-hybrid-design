@@ -477,7 +477,7 @@ This document defines or references four initial hybrids for use within TLS 1.3,
 | SecP256r1Kyber768Draft00  | secp256r1, Kyber768 | 0x639A         |
 {: #tab-defined-groups title="Hybrid key exchanged methods defined by this document"}
 
-The intention is that the combinations using Kyber768 are for normal TLS sessions, while the combiantions for Kyber512 are for sessions that have limits in record size or it is important to limit the total amount of communication.
+The intention is that the combinations using Kyber768 are for normal TLS sessions, while the combinations for Kyber512 are for sessions that have limits in record size or it is important to limit the total amount of communication.
 
 ## Kyber version
 
